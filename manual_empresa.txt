@@ -1,0 +1,33 @@
+MANUAL DE LA EMPRESA ACME S.A.
+==============================
+
+POLÍTICA DE VACACIONES
+-----------------------
+Los empleados tienen derecho a 15 días hábiles de vacaciones al año.
+Las vacaciones se solicitan con 2 semanas de anticipación al jefe directo.
+No se pueden acumular más de 30 días de vacaciones.
+
+HORARIO DE TRABAJO
+------------------
+El horario oficial es de lunes a viernes, de 9:00 AM a 6:00 PM.
+Se permite trabajo remoto los miércoles y viernes previa aprobación.
+Las horas extra se pagan al 150% del valor hora normal.
+
+BENEFICIOS
+----------
+- Seguro médico cubierto al 100% para el empleado y 50% para la familia.
+- Bono de desempeño anual de hasta 2 sueldos.
+- Capacitaciones pagadas por la empresa hasta S/. 2,000 al año.
+- Gimnasio corporativo disponible de lunes a sábado.
+
+CÓDIGO DE CONDUCTA
+------------------
+Está prohibido el uso de redes sociales personales durante horario laboral.
+Todo conflicto debe reportarse a Recursos Humanos dentro de las 24 horas.
+El uso de equipos de la empresa para fines personales está restringido.
+
+CONTACTOS IMPORTANTES
+---------------------
+Recursos Humanos: rrhh@acme.com | Interno: 101
+Soporte TI: soporte@acme.com | Interno: 202
+Gerencia General: gerencia@acme.com | Interno: 001

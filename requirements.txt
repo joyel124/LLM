@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+httpx
+python-dotenv
+langchain
+langchain-community
+langchain-ollama
+chromadb
+duckduckgo-search
+pypdf
+python-multipart
