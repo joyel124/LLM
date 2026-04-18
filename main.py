@@ -8,7 +8,7 @@ load_dotenv()
 
 API_KEY    = os.getenv("API_KEY")
 OLLAMA_URL = os.getenv("OLLAMA_URL", "http://localhost:11434")
-MODEL      = os.getenv("MODEL", "gemma4:latest")
+MODEL      = os.getenv("MODEL", "gemma4:e2b")
 
 app = FastAPI(title="Gemma API", version="1.0")
 
